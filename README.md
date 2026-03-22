@@ -11,7 +11,6 @@ A web-based application that detects similarity between two code files using alg
 - 🎯 Line-by-line comparison
 - ✨ Word-level highlighting
 - 📈 Graph visualization (Chart)
-- 📄 Download PDF report
 - 🎨 Clean and modern UI
 
 ---
@@ -126,7 +125,8 @@ This measures similarity between two sets of tokens.
 
 ## 📸 Output Preview
 
-(Add screenshot here)
+<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/ad70fe83-3699-4238-a594-dafe6cbd8947" />
+
 
 ---
 
@@ -138,8 +138,7 @@ This measures similarity between two sets of tokens.
 ---
 
 ## 🎯 Future Improvements
-
-- 🔐 User login system  
+  
 - 📁 Multiple file comparison  
 - 🤖 AI-based plagiarism detection  
 - 🌐 Deploy online  
