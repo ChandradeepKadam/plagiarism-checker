@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Plagiarism Checker PRO</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>🧩 Plagiarism Checker PRO</h1>
+
+    <div class="upload">
+        <input type="file" id="file1">
+        <input type="file" id="file2">
+    </div>
+
+    <button onclick="checkPlagiarism()">Compare Files</button>
+
+    <h2 id="overall">Overall Similarity: --</h2>
+
+    <div class="compare">
+        <div id="left" class="code-box"></div>
+        <div id="right" class="code-box"></div>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

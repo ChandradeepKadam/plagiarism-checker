@@ -1,0 +1,43 @@
+body {
+    font-family: Arial;
+    background: #0f172a;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    padding: 20px;
+}
+
+.upload input {
+    margin: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background: #22c55e;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.compare {
+    display: flex;
+    margin-top: 20px;
+    gap: 20px;
+    justify-content: center;
+}
+
+.code-box {
+    width: 40%;
+    background: #1e293b;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: left;
+    font-family: monospace;
+}
+
+.highlight {
+    background: yellow;
+    color: black;
+}
