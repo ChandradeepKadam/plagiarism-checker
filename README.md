@@ -34,6 +34,3 @@ A web-based application that detects similarity between two code files using alg
 - ReportLab (for PDF)
 - Chart.js (for graph)
 
----
-
-## 📁 Project Structure
